@@ -1,0 +1,30 @@
+state={
+ id=789
+ name="North Queensland"
+ manpower = 150000
+
+ state_category = city
+
+ history={
+  owner = RNA
+  buildings = {
+    infrastructure = 3
+    arms_factory = 2
+    industrial_complex = 1
+    }
+    add_core_of = WAJ
+    add_core_of = APU
+    add_core_of = NPF
+    add_core_of = ISA
+    add_core_of = RNA
+    add_core_of = GQL
+    add_core_of = FSW
+    add_core_of = QIS
+    add_core_of = IGV
+    add_core_of = TAS
+}
+
+provinces={
+   2166 7538 12367 4520 12354 1501 7525 10378 4505 10365 7506 10350 4648 10338 1644
+ }
+}

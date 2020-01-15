@@ -1,0 +1,44 @@
+
+state={
+	id=520
+	name="STATE_520"
+
+	manpower = 150000
+
+	state_category = city
+
+
+	resources={
+		steel=22 # was: 28
+	}
+
+	history={
+		owner = NPF
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 1
+			7669 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			7669 5
+		}
+		add_core_of = WAJ
+		add_core_of = APU
+		add_core_of = NPF
+		add_core_of = ISA
+		add_core_of = RNA
+		add_core_of = GQL
+		add_core_of = FSW
+		add_core_of = QIS
+		add_core_of = IGV
+		add_core_of = TAS
+	}
+
+	provinces={
+		1217 1410 1422 1431 1454 1478 2139 4415 4441 4462 4487 5207 7457 7481 7669 8209 8247 10276 10288 10316 10518 10937 10958 11016 12104 12246 12290 12311 12326 12339 12499 13133 12915 10979 12936 8237 2223 11013 12992
+	}
+}

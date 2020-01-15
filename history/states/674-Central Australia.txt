@@ -1,0 +1,31 @@
+
+state={
+	id=674
+	name="Free Australia"
+	manpower = 735915
+
+	state_category = city
+
+	history={
+		owner = WAJ
+		buildings = {
+			infrastructure = 1
+			arms_factory = 2
+			industrial_complex = 1
+		}
+		add_core_of = WAJ
+		add_core_of = APU
+		add_core_of = NPF
+		add_core_of = ISA
+		add_core_of = RNA
+		add_core_of = GQL
+		add_core_of = FSW
+		add_core_of = QIS
+		add_core_of = IGV
+		add_core_of = TAS
+	}
+
+	provinces={
+		1498 1511 2177 2186 2201 4645 5125 5170 7579 8134 8152 8155 10950 10971 12323 12904 12912 12993 13132 10958 8209 8247 10937 11016 5207
+	}
+}

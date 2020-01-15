@@ -1,0 +1,30 @@
+state={
+ id=790
+ name="Capital State"
+ manpower = 400000
+
+ state_category = city
+
+ history={
+  owner = QIS
+  buildings = {
+    infrastructure = 5
+    arms_factory = 2
+    industrial_complex = 1
+    }
+    add_core_of = WAJ
+		add_core_of = APU
+		add_core_of = NPF
+		add_core_of = ISA
+		add_core_of = RNA
+		add_core_of = GQL
+		add_core_of = FSW
+		add_core_of = QIS
+		add_core_of = IGV
+		add_core_of = TAS
+}
+
+provinces={
+  1667 10455 10682 1861 7859
+ }
+}

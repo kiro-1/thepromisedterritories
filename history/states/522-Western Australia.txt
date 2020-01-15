@@ -1,0 +1,39 @@
+
+state={
+	id=522
+	name="STATE_522"
+
+	manpower = 467200
+	state_category = city
+
+	history={
+		owner = APU
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 1
+			1652 = {
+				naval_base = 1
+				coastal_bunker = 1
+			}
+		}
+		victory_points = {
+			1652 3
+		}
+		add_core_of = WAJ
+		add_core_of = APU
+		add_core_of = NPF
+		add_core_of = ISA
+		add_core_of = RNA
+		add_core_of = GQL
+		add_core_of = FSW
+		add_core_of = QIS
+		add_core_of = IGV
+		add_core_of = TAS
+	}
+
+	provinces={
+		1652 2157 4630 5175 7453 8130 8228 8243 10983 10949 1526 11011 8200 10997 12962 12990 10969 12976 7608 10473 12926 2133 12948 2191 2133
+	}
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=519
+	name="STATE_519"
+	manpower = 652197
+
+	state_category = city
+
+	history={
+		owner = ISA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = WAJ
+		add_core_of = APU
+		add_core_of = NPF
+		add_core_of = ISA
+		add_core_of = RNA
+		add_core_of = GQL
+		add_core_of = FSW
+		add_core_of = QIS
+		add_core_of = IGV
+		add_core_of = TAS
+	}
+
+	provinces={
+		 2219 5183 5197 5225 8165 8186 8220 10927 5138 7623 12906 2205 8206
+	}
+}

@@ -1,0 +1,49 @@
+
+state={
+	id=521
+	name="STATE_521"
+	manpower = 916800
+
+	state_category = city
+
+	resources={
+		tungsten=24 # was: 36
+	}
+
+	history={
+		owner = GQL
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 1
+			7564 = {
+				naval_base = 2
+				coastal_bunker = 1
+			}
+			7566 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			7564 5
+		}
+		victory_points = {
+			7566 1
+		}
+		add_core_of = WAJ
+		add_core_of = APU
+		add_core_of = NPF
+		add_core_of = ISA
+		add_core_of = RNA
+		add_core_of = GQL
+		add_core_of = FSW
+		add_core_of = QIS
+		add_core_of = IGV
+		add_core_of = TAS
+	}
+
+	provinces={
+		1472 1514 1557 2187 4481 4560 4632 5198 7566 7610 7651 7666 8230 10460 10475 10487 12308 12382 12411 12424 12949 12957 10955 10336 10936 5206
+	}
+}

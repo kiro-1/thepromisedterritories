@@ -1,0 +1,38 @@
+state=
+{
+	id=518
+	name="STATE_518"
+	manpower = 957896
+
+	state_category = city
+
+	history=
+	{
+		owner = TAS
+		victory_points = {
+			2189 1
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 1
+			2189 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = WAJ
+		add_core_of = APU
+		add_core_of = NPF
+		add_core_of = ISA
+		add_core_of = RNA
+		add_core_of = GQL
+		add_core_of = FSW
+		add_core_of = QIS
+		add_core_of = IGV
+		add_core_of = TAS
+
+	}
+	provinces={
+		2183 2189 5181 5187 10665 12645
+	}
+}

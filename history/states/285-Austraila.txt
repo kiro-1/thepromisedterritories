@@ -1,0 +1,53 @@
+
+state={
+	id=285
+	name="STATE_285"
+	manpower = 1500000
+	state_category = large_city
+
+	history={
+		owner = FSW
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 2
+			air_base = 5
+			12406 = {
+				naval_base = 6
+				coastal_bunker = 2
+			}
+			7859 = {
+				bunker = 1
+			}
+			7520 = {
+				coastal_bunker = 1
+			}
+		}
+		victory_points = {
+			7859 30
+		}
+
+		victory_points = {
+			12406 20.0
+		}
+
+		victory_points = {
+			7520 1
+		}
+		add_core_of = WAJ
+		add_core_of = APU
+		add_core_of = NPF
+		add_core_of = ISA
+		add_core_of = RNA
+		add_core_of = GQL
+		add_core_of = FSW
+		add_core_of = QIS
+		add_core_of = IGV
+		add_core_of = TAS
+	}
+
+	provinces={
+		1537 1611 2163 4453 4478 4500 4658 7450 7471 7496 7520 7533 7649 7664 8234 10388 10427 10500 10977 12377 12406 12934 12968 2221 10991 10941 11006 4517 5227 1570 12451 10458 10445 10430 7564 7535 4530 4546 4502 7522 7592 2116
+	}
+}

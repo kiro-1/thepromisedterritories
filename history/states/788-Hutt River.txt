@@ -1,0 +1,19 @@
+state={
+ id=788
+ name="Hutt River"
+ manpower = 40000
+
+ state_category = town
+
+ history={
+  owner = WAJ
+  buildings = {
+    infrastructure = 1
+    }
+  add_core_of = WAJ
+}
+
+provinces={
+  1540
+ }
+}
